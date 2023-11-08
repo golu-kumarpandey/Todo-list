@@ -1,0 +1,28 @@
+.container{
+    background-color: aliceblue;
+    padding: 20px;
+    height: 100vh;
+    font-size: 27px;
+    
+
+}
+.heading-first{
+    color: black;
+}
+.heading-second{
+    color: blue;
+}
+li{
+    color: black;
+     margin-top: 10px;
+}
+.list-style{
+    color: gray;
+    text-decoration: line-through;
+}
+.heading-3{
+    color: black;
+}
+ul{
+   margin-left: 40px;
+}
